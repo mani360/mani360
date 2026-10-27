@@ -18,7 +18,7 @@ I work on Android applications that connect software, external devices, and secu
 
 An Android/Kotlin portfolio project exploring testable device integration and simulated biometric capture.
 
-The initial implementation includes a Compose dashboard, a fake device, explicit device states, failure scenarios, and automated checks. Android Keystore signing, certificate workflows, and physical device adapters are planned extensions.
+The implementation includes a Compose dashboard, a fake device, explicit device states, failure scenarios, and automated checks. A separate Android Keystore demo covers local signing, verification, tamper rejection, and key deletion. Certificate trust workflows and physical device adapters are planned extensions.
 
 All capture data in the demonstration is synthetic. The project is independently developed and contains no employer code, customer data, or proprietary SDKs.
 
